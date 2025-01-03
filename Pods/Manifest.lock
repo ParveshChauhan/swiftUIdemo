@@ -1,0 +1,16 @@
+PODS:
+  - VWO-Insights (0.4.10)
+
+DEPENDENCIES:
+  - VWO-Insights (from `/Users/parveshchauhan/Desktop/vwoNative`)
+
+EXTERNAL SOURCES:
+  VWO-Insights:
+    :path: "/Users/parveshchauhan/Desktop/vwoNative"
+
+SPEC CHECKSUMS:
+  VWO-Insights: f60c286b136871c16740b759dc0a26d4d6f142fe
+
+PODFILE CHECKSUM: 7075921ae4c722d898c2eb03964b60390d9ce681
+
+COCOAPODS: 1.15.2
